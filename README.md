@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/archieshrest10-cell/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/archieshrest10-cell/leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
