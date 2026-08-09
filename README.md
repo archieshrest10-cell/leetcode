@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/archieshrest10-cell/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/archieshrest10-cell/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/archieshrest10-cell/leetcode/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/archieshrest10-cell/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/archieshrest10-cell/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
