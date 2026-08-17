@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/archieshrest10-cell/leetcode/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/archieshrest10-cell/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
