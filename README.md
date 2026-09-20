@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/archieshrest10-cell/leetcode/tree/master/0709-to-lower-case) |
 | [1796-second-largest-digit-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/archieshrest10-cell/leetcode/tree/master/1844-replace-all-digits-with-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/archieshrest10-cell/leetcode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
