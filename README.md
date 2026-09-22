@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/archieshrest10-cell/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/archieshrest10-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/archieshrest10-cell/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/archieshrest10-cell/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
