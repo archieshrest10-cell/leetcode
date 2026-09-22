@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/archieshrest10-cell/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/archieshrest10-cell/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/archieshrest10-cell/leetcode/tree/master/0575-distribute-candies) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/archieshrest10-cell/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/archieshrest10-cell/leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/archieshrest10-cell/leetcode/tree/master/0575-distribute-candies) |
 | [1796-second-largest-digit-in-a-string](https://github.com/archieshrest10-cell/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
